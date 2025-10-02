@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book id="1">
+    <title>The Great Adventure</title>
+    <author>John Doe</author>
+    <year>2020</year>
+    <genre>Fiction</genre>
+    <price>24.99</price>
+  </book>
+  <book id="2">
+    <title>Learning Python</title>
+    <author>Jane Smith</author>
+    <year>2021</year>
+    <genre>Programming</genre>
+    <price>39.99</price>
+  </book>
+  <book id="3">
+    <title>History of Rome</title>
+    <author>Marcus Ancient</author>
+    <year>2019</year>
+    <genre>History</genre>
+    <price>29.99</price>
+  </book>
+</books>

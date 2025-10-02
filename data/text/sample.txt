@@ -1,0 +1,9 @@
+This is a sample text file for testing purposes.
+
+It contains multiple lines of text.
+You can use this file to test text processing functionality.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+End of sample text.
